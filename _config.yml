@@ -38,9 +38,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "graweynicole@gmail.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  # facebook: deanattali
+  # github: daattali
+  # twitter: daattali
   # reddit: yourname
   # linkedin: daattali
   # xing: yourname
@@ -49,7 +49,7 @@ social-network-links:
   # instagram: deanat78
   # youtube: user/deanat78
   # spotify: yourname
-  telephone: +14159998888
+  telephone: +19167524913
   # steam: deanat78
   # twitch: yourname
   # yelp: yourname
@@ -61,7 +61,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This is my personal portfolio for my interpreting career and experience.
 
 # --- General options --- #
 
@@ -222,6 +222,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-youtube
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
